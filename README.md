@@ -13,5 +13,4 @@ es un formulario muy elegante y atractivo pero sobretodo minimalsta lo que atrae
 # 🖼️Imagen de la ejecucion del proyecto
 # imagenes del FORMULARIO:
 
-
-
+![Uploading Captura de pantalla 2026-01-25 212714.png…]()
