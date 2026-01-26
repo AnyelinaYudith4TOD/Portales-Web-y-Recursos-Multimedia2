@@ -19,12 +19,16 @@ para poder abrir el proyecto necesitaras que te comparta el link
 funciona en distintos navegadores lo que significa que lo podrias visualizar sin preocuparte.
 
 # Contexto Academico
--Nivel: Secundaria Tecnico Profesional
+-Nivel: Secundaria Tecnico Profesional.
+
 -Modulo Formativo: Diseño de portales Web y Recursos Multimedia.
--Curso/Seccion: 4TO D
--Año Escolar: 2025-2026
+
+-Curso/Seccion: 4TO D.
+
+-Año Escolar: 2025-2026.
 
 # 👥 Autores 🌸
--Anyelina Yudith Cruz Baker
+-Anyelina Yudith Cruz Baker.
+
 -Dilianna Alicia Paulino
 
